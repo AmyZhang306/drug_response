@@ -1,0 +1,21 @@
+Compound	Plate	Drug number	Concentration	Concentarion Unit	Time	Time Unit
+Vorinostat	A1	1	500000	nM	72	h
+Tramestinib	A1	2	10000	nM	72	h
+Olaparib	A1	3	500000	nM	72	h
+BIBW2992	A1	4	100000	nM	72	h
+PD-0332991	A1	5	20000	nM	72	h
+Afinitor	A2	1	20000	nM	72	h
+Lenvatinib 	A2	2	10000000	nM	72	h
+Tretinoin	A2	3	500000	nM	72	h
+Cabozantinib	A2	4	2000000	nM	72	h
+Ponatinib	A2	5	10000000	nM	72	h
+BYL719	B1	1	2000000	nM	72	h
+Linsitinib OSI-906	B1	2	2000000	nM	72	h
+Abiraterone	B1	3	5000000	nM	72	h
+Enzaludemine	B1	4	2500000	nM	72	h
+Levoxyl	B1	5	5000000	nM	72	h
+Pertuzumab_Herceptin	B2	1	10000_10000	nM	72	h
+Gemcitabine	B2	2	50000	nM	72	h
+Carboplatin	B2	3	5000000	nM	72	h
+Ibuprofen	B2	4	40000000	nM	72	h
+Ibuprofen_Levoxyl_Lapatinib	B2	5	13300000_1666700_333300	nM	72	h
