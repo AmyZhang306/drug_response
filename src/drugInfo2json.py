@@ -42,7 +42,7 @@ def drugInfo2json (drugtsv, drugjson):
     #output the dictionary to json file
     outfile=drugjson
     f=open(outfile, "w")
-    json.dump(d_drugInfo, f)
+    json.dump(d_drugInfo, f, indent=4, sort_keys=True)
     f.close()
 
 def main():
