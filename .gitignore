@@ -1,4 +1,6 @@
 #project specific ignore files
+.DS_Store
+*~
 output/*
 
 # Byte-compiled / optimized / DLL files
